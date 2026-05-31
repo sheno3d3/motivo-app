@@ -25,6 +25,7 @@ jobs:
           flutter-version: '3.24.5'
           channel: stable
           cache: true
+          cache-key: flutter-3.24.5
 
       - name: Write local.properties
         run: |
