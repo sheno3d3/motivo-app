@@ -1,5 +1,5 @@
-import 'package:flutter_animate/flutter_animate.dart';
 // lib/screens/rewards_screen.dart
+import 'package:flutter_animate/flutter_animate.dart';
 import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
