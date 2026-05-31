@@ -79,7 +79,7 @@ class _MissionsScreenState extends State<MissionsScreen>
             height: 36,
             child: Text(t.toUpperCase(),
               style: AppTextStyles.body(size: 9, weight: FontWeight.w700,
-                color: Colors.inherit as Color? ?? Colors.white)),
+                color: Colors.white)),
           )).toList(),
         ),
       ),
